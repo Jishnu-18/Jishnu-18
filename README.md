@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Jishnu-18
-- 👀 I’m passionate about web development, cricket and movies.
-- 🌱 I’m currently studying in college (pursuing BTech. CSE)
-- 📫 You can reach me here: jishnu.rajan2021@vitstudent.ac.in
+- 👀 I’m passionate about web development, UI.UX designing, cricket and movies.
+- 🌱 I’m currently pursuing my B.Tech degree in CSE with AI & ML
+- 📫 You can reach me here: jishnukannankv5@gmail.com
 
 <!---
 Jishnu-18/Jishnu-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
